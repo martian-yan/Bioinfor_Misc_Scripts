@@ -1,6 +1,8 @@
 # Bioinfo_Misc_Scripts
 
-This is a collection of som useful python scripts for Bioinformatics. They are created for personal use, therefore super out of ordered, extremely unreliable and totally not pythonic. Make sure you know what you are doing before running these scripts.
+This is a collection of som useful python scripts for Bioinformatics. They are created for personal use, therefore **super out of ordered**, **extremely unreliable** and **totally not pythonic**. 
+
+Make sure you know what you are doing before running these scripts.
 
 ## Dependencies
 
