@@ -10,10 +10,10 @@ All the scripts based on `Python 3.7`
 
 The commonly used packages are:
 
-- biopython
-- pandas
+- `biopython`
+- `pandas`
 
-The specific packages and the usage refer to each script.
+The specific dependencies and the usage refer to each script.
 
 ## Description
 
