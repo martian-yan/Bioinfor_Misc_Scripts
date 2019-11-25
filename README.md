@@ -1,8 +1,8 @@
 # Bioinfo_Misc_Scripts
 
-This is a collection of som useful python scripts for Bioinformatics. They are created for personal use, therefore **super out of ordered**, **extremely unreliable** and **totally not pythonic**. 
+This is a collection of som useful python scripts for Bioinformatics. They are created only for personal use, therefore **super out of ordered**, **extremely unreliable** and **totally non-pythonic**. 
 
-Make sure you know what you are doing before running these scripts.
+**Make sure you know what you are doing before running these scripts.**
 
 ## Dependencies
 
@@ -25,6 +25,8 @@ The function of each script is as the file name. :stuck_out_tongue_closed_eyes:
 - [gbk2gff.py](./gbk2gff.py)
 - [csv_to_iTol_colorStrip.py](./csv_to_iTol_colorStrip.py)
 - [csv_to_iTol_heatmap.py](./csv_to_iTol_heatmap.py)
+- [gff2faa.py](./gff2faa.py)
+- [gff2ffn.py](./gff2ffn.py)
 
 ## Useful scripts from other contributors
 
